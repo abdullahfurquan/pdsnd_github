@@ -14,5 +14,5 @@ The following file contains necessary commands used to do tasks:
 Git Commands Documentation.pdf
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[Git Documentation](https://git-scm.com/doc)
 
