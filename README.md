@@ -10,7 +10,8 @@ BIKE SHARE
 In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git
 
 ### Files used
-Include the files used
+The following file contains necessary commands used to do tasks:
+Git Commands Documentation.pdf
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
